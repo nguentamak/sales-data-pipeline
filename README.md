@@ -1,6 +1,6 @@
 # Sales Data Pipeline
 
-Mini-projet Data Pipeline avec GitFlow.
+Mini-projet Data Pipeline avec GitFlow
 
 ## Structure GitFlow
 
